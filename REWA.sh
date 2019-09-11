@@ -2,14 +2,14 @@
 
 
 
-toilet "TOOLS REWA" | lolcat
+figlet "TOOLS REWA" | lolcat
 echo "GUNAKAN TOOLS INI DENGAN BIJAK" | lolcat
 echo
 echo "==================================" | lolcat
 echo
 read -p "SIAPA NAMATA' :"  NAMA
 echo
-echo "DUDUK MAKI' DULU $NAMA KARNA MASIH LOADING" | lolcat
+echo "DUDUK MAKI' DULU $NAMA KARNA MASIH LOADING..." | lolcat
 sleep 3
 echo
 echo "-------------------------------" | lolcat
