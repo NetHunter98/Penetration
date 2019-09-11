@@ -2,8 +2,15 @@
 
 
 
-figlet "EWAKO" | lolcat
-echo "GUNAKAN TOOLS INI DENGAN BIJAK" | lolcat
+echo "                                           
+    _/_/_/    _/_/_/_/  _/          _/    _/_/ " 
+   _/    _/  _/        _/          _/  _/    _/   
+  _/_/_/    _/_/_/    _/    _/    _/  _/_/_/_/    
+ _/    _/  _/          _/  _/  _/    _/    _/     
+_/    _/  _/_/_/_/      _/  _/      _/    _/       | lolcat
+
+
+echo   "ALAT GUNAKAN INI DENGAN BIJAK" | lolcat
 echo
 echo "==================================" | lolcat
 echo
