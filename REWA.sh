@@ -15,12 +15,15 @@ echo
 read -p "SIAPA NAMATA' :"  NAMA
 echo
 echo "DUDUK MAKI' DULU $NAMA KARNA MASIH LOADING..." | lolcat
-sleep 3
 echo
+sleep 3
+
 echo "-------------------------------" | lolcat
 echo "sedang menginstall RED_HAWK...." | lolcat
 echo "-------------------------------" | lolcat
+echo
 sleep 3
+
 
 
 #RED_HAWK
