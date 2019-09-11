@@ -1,14 +1,16 @@
 #! system / bin / sh
 
 
-
+echo
+echo
                                            
- echo    "_/_/_/    _/_/_/_/  _/          _/    _/_/ "  | lolcat
-echo    "_/    _/  _/        _/          _/  _/    _/ "  | lolcat
-echo   "_/_/_/    _/_/_/    _/    _/    _/  _/_/_/_/  " | lolcat
-echo  "_/    _/  _/          _/  _/  _/    _/    _/  "  | lolcat
-echo "_/    _/  _/_/_/_/      _/  _/      _/    _/  "     | lolcat
-
+echo     "_/_/_/    _/_/_/_/  _/          _/    _/_/    " | lolcat
+echo    "_/    _/  _/        _/          _/  _/    _/   " | lolcat
+echo   "_/_/_/    _/_/_/    _/    _/    _/  _/_/_/_/    " | lolcat
+echo  "_/    _/  _/          _/  _/  _/    _/    _/     " | lolcat
+echo "_/    _/  _/_/_/_/      _/  _/      _/    _/      " | lolcat
+echo
+echo
 
 echo   "ALAT GUNAKAN INI DENGAN BIJAK" | lolcat
 echo
