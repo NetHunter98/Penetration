@@ -1,8 +1,8 @@
-#!system/bin/sh
+#! system / bin / sh
 
 
 
-figlet "TOOLS REWA" | lolcat
+figlet "EWAKO" | lolcat
 echo "GUNAKAN TOOLS INI DENGAN BIJAK" | lolcat
 echo
 echo "==================================" | lolcat
