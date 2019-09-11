@@ -20,11 +20,11 @@ echo
 echo "-------------------------------" | lolcat
 echo "sedang menginstall RED_HAWK...." | lolcat
 echo "-------------------------------" | lolcat
-sleep 10
+sleep 5
 
 
 #RED_HAWK
-pkg install git
+
 pkg install php
 
 git clone https://github.com/Tuhinshubhra/RED_HAWK
