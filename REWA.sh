@@ -8,7 +8,7 @@ figlet "REEWAA" | lolcat
 echo
 
 
-echo   "ALAT GUNAKAN INI DENGAN BIJAK" | lolcat
+echo   "GUNAKAN TOOL INI DENGAN BIJAK" | lolcat
 echo
 echo "==================================" | lolcat
 echo
