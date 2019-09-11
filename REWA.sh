@@ -1,16 +1,12 @@
 #! system / bin / sh
 
 
-echo
+
 echo
                                            
-echo  "    _/_/_/    _/_/_/_/  _/          _/    _/_/    
-echo  "   _/    _/  _/        _/          _/  _/    _/   
-echo  "  _/_/_/    _/_/_/    _/    _/    _/  _/_/_/_/    
-echo  " _/    _/  _/          _/  _/  _/    _/    _/     
-echo  "_/    _/  _/_/_/_/      _/  _/      _/    _/      " | lolcat
+figlet "REEWAA" | lolcat
 echo
-echo
+
 
 echo   "ALAT GUNAKAN INI DENGAN BIJAK" | lolcat
 echo
