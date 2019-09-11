@@ -2,7 +2,7 @@
 
 
 
-echo
+clear
                                            
 figlet "REEWAA" | lolcat
 echo
