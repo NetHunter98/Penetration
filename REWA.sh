@@ -24,8 +24,9 @@ pkg install php
 
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 
-cd /data/data/com.termux/files/RED_HAWK/
-php /data/data/com.termux/files/RED_HAWK/ RED_HAWK.php
+
+cd RED_HAWK
+chmod +x rhawk.php
 php rhawk.php
 
 
