@@ -4,7 +4,7 @@
 
 clear
                                            
-figlet "REEWAA" | lolcat
+figlet "Penetration" | lolcat
 echo
 
 
@@ -12,10 +12,10 @@ echo   "GUNAKAN TOOL INI DENGAN BIJAK" | lolcat
 echo
 echo "==================================" | lolcat
 echo
-read -p "SIAPA NAMATA' :"  NAMA
-echo
-echo "DUDUK MAKI' DULU $NAMA KARNA MASIH LOADING..." | lolcat
-echo
+
+
+
+
 sleep 3
 
 echo "-------------------------------" | lolcat
